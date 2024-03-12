@@ -19,3 +19,4 @@ This project is a simple command-line Bank Management System implemented in C++.
 ## Note:  ##
 This project uses dynamic memory allocation to manage accounts, which means memory is allocated or deallocated as needed during runtime.
 Ensure that the initial deposit amount provided during account creation meets the minimum balance requirements (≥500 for Savings and ≥1000 for Current accounts).
+```cpp
